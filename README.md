@@ -39,6 +39,11 @@ This will open the app in your default browser at:
 
 ---
 
+## 🖼️ Preview
+
+![Screenshot 2025-06-26 165535](https://github.com/user-attachments/assets/23c18e4e-89b4-41b0-9032-842076de2cba)
+
+
 ## 🛠️ How It Works
 
 ### 📥 Inputs
